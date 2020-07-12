@@ -1,0 +1,17 @@
+table {
+	border-collapse: collapse;
+	table-layout: fixed;
+	background-color: #cccccc;
+	border: 1px solid black;
+	width: 400px;
+}
+td {
+	border: 1px solid black;
+}
+body {
+  font-family: "돋움", dotum, "굴림", gulim, arial, helvetica, sans-serif;
+}
+h1 {
+	color: #000000;
+	
+}
